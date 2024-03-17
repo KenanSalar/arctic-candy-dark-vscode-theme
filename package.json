@@ -1,0 +1,21 @@
+{
+  "name": "sarek-theme",
+  "displayName": "Sarek Theme",
+  "description": "A dark and pleasing theme with meaning behind the syntax highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sarek Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sarek Theme-color-theme.json"
+      }
+    ]
+  }
+}
