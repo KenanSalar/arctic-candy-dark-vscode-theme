@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/logoTitle.png?token=GHSAT0AAAAAACPLBZ7C4YIUP4OOKNRFXEG2ZPW5KKQ)
+![Logo](https://i.postimg.cc/QxPkxsnT/logo-Title.png)
 
 
 # Sarek Theme
@@ -10,13 +10,13 @@ A pleasant dark theme that is easy on your eyes and keeps you focused on work.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133301.png?token=GHSAT0AAAAAACPLBZ7DTHOJ3D3Y6SED55GKZPW4UHA)
+![App Screenshot](https://postimg.cc/BXBXxx5t][img]https://i.postimg.cc/BXBXxx5t/Screenshot-2024-03-17-133301.png)
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133508.png?token=GHSAT0AAAAAACPLBZ7CSFKGB3KSE5XXKJFMZPW4URA)
+![App Screenshot](https://postimg.cc/z3WLfmVC][img]https://i.postimg.cc/z3WLfmVC/Screenshot-2024-03-17-133508.png)
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133642.png?token=GHSAT0AAAAAACPLBZ7DW6HGVVTRTD5WEU56ZPW4UZQ)
+![App Screenshot](https://postimg.cc/2L439WPc][img]https://i.postimg.cc/2L439WPc/Screenshot-2024-03-17-133642.png)
 
-![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/screenshot_csharp.png?token=GHSAT0AAAAAACPLBZ7CCLG3BOITJLJFQ7EMZPW4VOQ)
+![App Screenshot](https://postimg.cc/4mgY789r][img]https://i.postimg.cc/4mgY789r/screenshot-csharp.png)
 
 
 
