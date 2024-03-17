@@ -1,16 +1,22 @@
-# sarek-theme README
 
-## Working with Markdown
+![Logo](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/logoTitle.png?token=GHSAT0AAAAAACPLBZ7C4YIUP4OOKNRFXEG2ZPW5KKQ)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Sarek Theme
 
-## For more information
+Know what types of data you're editing.
+A pleasant dark theme that is easy on your eyes and keeps you focused on work.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133301.png?token=GHSAT0AAAAAACPLBZ7DTHOJ3D3Y6SED55GKZPW4UHA)
+
+![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133508.png?token=GHSAT0AAAAAACPLBZ7CSFKGB3KSE5XXKJFMZPW4URA)
+
+![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/Screenshot%202024-03-17%20133642.png?token=GHSAT0AAAAAACPLBZ7DW6HGVVTRTD5WEU56ZPW4UZQ)
+
+![App Screenshot](https://raw.githubusercontent.com/KenanSalar/sarek-vscode-theme/main/resources/screenshot_csharp.png?token=GHSAT0AAAAAACPLBZ7CCLG3BOITJLJFQ7EMZPW4VOQ)
+
+
+
