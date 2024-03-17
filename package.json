@@ -9,6 +9,35 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "sarek",
+    "theme",
+    "dark",
+    "color",
+    "syntax",
+    "highlighting",
+    "dark theme",
+    "light theme",
+    "color theme",
+    "syntax highlighting",
+    "sarek theme",
+    "sarek syntax",
+    "sarek highlighting",
+    "sarek color",
+    "sarek syntax highlighting",
+    "sarek dark theme",
+    "sarek color theme",
+    "sarek syntax highlighting theme",
+    "sarek dark syntax highlighting theme",
+    "beautiful",
+    "beautiful theme",
+    "beautiful syntax highlighting",
+    "beautiful dark theme",
+    "readible",
+    "readible theme",
+    "readible syntax highlighting",
+    "readible dark theme"
+  ],
   "contributes": {
     "themes": [
       {
