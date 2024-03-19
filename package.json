@@ -46,6 +46,11 @@
         "label": "Arctic Candy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Arctic Candy Dark-color-theme.json"
+      },
+      {
+        "label": "Arctic Candy Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arctic Candy Dark+-color-theme.json"
       }
     ]
   }
