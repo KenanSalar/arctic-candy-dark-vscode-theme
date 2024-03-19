@@ -20,7 +20,6 @@
     "syntax",
     "highlighting",
     "dark theme",
-    "light theme",
     "color theme",
     "syntax highlighting",
     "arctic candy theme",
@@ -36,10 +35,10 @@
     "beautiful theme",
     "beautiful syntax highlighting",
     "beautiful dark theme",
-    "readible",
-    "readible theme",
-    "readible syntax highlighting",
-    "readible dark theme"
+    "readable",
+    "readable theme",
+    "readable syntax highlighting",
+    "readable dark theme"
   ],
   "contributes": {
     "themes": [
