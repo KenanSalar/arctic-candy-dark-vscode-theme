@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/QxPkxsnT/logo-Title.png)
+![Logo](https://i.postimg.cc/ncvYGBQX/logo-Title.png)
 
 # Sarek Theme
 

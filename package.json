@@ -1,6 +1,6 @@
 {
-  "name": "sarek-theme",
-  "displayName": "Sarek Theme",
+  "name": "arctic-candy-dark",
+  "displayName": "Arctic Candy Dark",
   "description": "A dark and pleasing theme with meaning behind the syntax highlighting.",
   "icon": "resources/marketplace_logo.png",
   "version": "0.1.0",
@@ -12,7 +12,8 @@
   ],
   "publisher": "kenan-salar",
   "keywords": [
-    "sarek",
+    "arctic",
+    "candy",
     "theme",
     "dark",
     "color",
@@ -22,15 +23,15 @@
     "light theme",
     "color theme",
     "syntax highlighting",
-    "sarek theme",
-    "sarek syntax",
-    "sarek highlighting",
-    "sarek color",
-    "sarek syntax highlighting",
-    "sarek dark theme",
-    "sarek color theme",
-    "sarek syntax highlighting theme",
-    "sarek dark syntax highlighting theme",
+    "arctic candy theme",
+    "arctic candy syntax",
+    "arctic candy highlighting",
+    "arctic candy color",
+    "arctic candy syntax highlighting",
+    "arctic candy dark theme",
+    "arctic candy color theme",
+    "arctic candy syntax highlighting theme",
+    "arctic candy dark syntax highlighting theme",
     "beautiful",
     "beautiful theme",
     "beautiful syntax highlighting",
@@ -43,9 +44,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sarek Theme",
+        "label": "Arctic Candy Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sarek Theme-color-theme.json"
+        "path": "./themes/Arctic Candy Dark-color-theme.json"
       }
     ]
   }
