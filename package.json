@@ -3,7 +3,7 @@
   "displayName": "Arctic Candy Dark",
   "description": "A dark and pleasing theme with meaning behind the syntax highlighting.",
   "icon": "resources/marketplace_logo.png",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -56,6 +56,11 @@
         "label": "Arctic Candy Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Arctic Candy Darker-color-theme.json"
+      },
+      {
+        "label": "Arctic Candy not so Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arctic Candy not so Dark-color-theme.json"
       }
     ]
   }
