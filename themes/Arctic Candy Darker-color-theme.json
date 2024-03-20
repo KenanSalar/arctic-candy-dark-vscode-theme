@@ -1166,8 +1166,7 @@
         "punctuation.terminator",
         "markup.bold.markdown",
         "source.zig storage.type.function",
-        "entity.name.type",
-        "punctuation.curlybrace"
+        "entity.name.type"
       ],
       "settings": {
         "fontStyle": "bold"
