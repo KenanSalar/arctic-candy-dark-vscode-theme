@@ -9,12 +9,33 @@ A pleasant dark theme that is easy on your eyes and keeps you focused on work.
 **Arctis Candy Dark+** - Default VS Code dark theme with Arctic Candy syntax  
 **Arctis Candy Darker** - A darkened version of the base theme
 
+## Installation
+
+Install the extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=kenan-salar.arctic-candy-dark)  
+Don't forget to enable semantic highlighting.
+
 ## Screenshots
+
+#### Default Theme:
 
 ![App Screenshot](https://i.postimg.cc/HsfX1zV0/Screenshot-2024-03-17-133301.png)
 
-![App Screenshot](https://i.postimg.cc/L4QjN2Sb/Screenshot-2024-03-17-133508.png)
+#### Darker Theme:
 
-![App Screenshot](https://i.postimg.cc/fyPXLj5N/Screenshot-2024-03-17-133642.png)
+![App Screenshot](https://i.postimg.cc/DZPp52SW/darker.png)
 
-![App Screenshot](https://i.postimg.cc/qMtyFSMM/screenshot-csharp.png)
+#### not so Dark Theme:
+
+![App Screenshot](https://i.postimg.cc/zvdtZ0S8/not-so-dark.png)
+
+#### Dark+ Theme:
+
+![App Screenshot](https://i.postimg.cc/qqBb59K1/Dark.png)
+
+#### Flat Theme:
+
+![App Screenshot](https://i.postimg.cc/7PXQ2Zvd/flat.png)
+
+#### Flat Dark Theme:
+
+![App Screenshot](https://i.postimg.cc/Yq9DfBM9/flat-dark.png)
