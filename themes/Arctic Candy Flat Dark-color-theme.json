@@ -1318,7 +1318,7 @@
       "fontStyle": "bold"
     },
     "recordClass": {
-      "foreground": "#22b9f5",
+      "foreground": "#22d5f5",
       "fontStyle": "bold"
     },
     "struct": {
@@ -1326,7 +1326,7 @@
       "fontStyle": "bold"
     },
     "recordStruct": {
-      "foreground": "#e531f5",
+      "foreground": "#d431f5",
       "fontStyle": "bold"
     },
     "record": {
@@ -1378,7 +1378,7 @@
       "fontStyle": "bold"
     },
     "enumMember": {
-      "foreground": "#64d67d",
+      "foreground": "#95E9A7",
       "fontStyle": ""
     },
     "event": {
@@ -1394,7 +1394,7 @@
       "fontStyle": ""
     },
     "operatorOverload": {
-      "foreground": "#f1f1f1",
+      "foreground": "#ebbebe",
       "fontStyle": "bold"
     },
     "punctuation": {
