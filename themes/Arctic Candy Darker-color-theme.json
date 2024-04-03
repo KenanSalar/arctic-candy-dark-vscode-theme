@@ -1307,7 +1307,7 @@
     },
     "namespace": {
       "foreground": "#adc5c2",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "module": {
       "foreground": "#e6e78e",
