@@ -1044,9 +1044,25 @@
       "foreground": "#49ace9",
       "fontStyle": "bold"
     },
+    "recordClass": {
+      "foreground": "#22b9f5",
+      "fontStyle": "bold"
+    },
     "struct": {
       "foreground": "#d343c0",
       "fontStyle": "bold"
+    },
+    "recordStruct": {
+      "foreground": "#e531f5",
+      "fontStyle": "bold"
+    },
+    "record": {
+      "foreground": "#cf7f97",
+      "fontStyle": "bold"
+    },
+    "recordComponent": {
+      "foreground": "#e096ac",
+      "fontStyle": ""
     },
     "interface": {
       "foreground": "#d87b57",
@@ -1090,14 +1106,6 @@
     },
     "enumMember": {
       "foreground": "#64d67d",
-      "fontStyle": ""
-    },
-    "record": {
-      "foreground": "#cf7f97",
-      "fontStyle": "bold"
-    },
-    "recordComponent": {
-      "foreground": "#cf7f97",
       "fontStyle": ""
     },
     "event": {
