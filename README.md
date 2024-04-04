@@ -7,9 +7,9 @@ A pleasant dark theme that is easy on your eyes and keeps you focused on work.
 
 **Arctis Candy Dark** - The base Arctic Candy Dark Theme  
 **Arctis Candy Dark+** - Default VS Code dark theme with Arctic Candy syntax  
-**Arctis Candy Darker** - A darkened version of the base theme
-**Arctis Candy not so Dark** - The base Theme but not so dark
-**Arctis Candy Flat** - A flat version of the theme
+**Arctis Candy Darker** - A darkened version of the base theme  
+**Arctis Candy not so Dark** - The base Theme but not so dark  
+**Arctis Candy Flat** - A flat version of the theme  
 **Arctis Candy Flat Dark** - The flat version but darker
 
 ## Installation
