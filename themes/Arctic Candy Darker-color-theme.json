@@ -1440,6 +1440,10 @@
       "foreground": "#D4D4D4",
       "fontStyle": ""
     },
+    "markupTagDelimiter": {
+      "foreground": "#8e9daf",
+      "fontStyle": ""
+    },
     "markupElement": {
       "foreground": "#EC647B",
       "fontStyle": ""
@@ -1456,6 +1460,18 @@
       "foreground": "#5B858B",
       "fontStyle": "italic"
     },
+    "razorTransition": {
+      "foreground": "#c1b5e2",
+      "fontStyle": ""
+    },
+    "razorDirective": {
+      "foreground": "#c1b5e2",
+      "fontStyle": ""
+    },
+    "razorDirectiveAttribute": {
+      "foreground": "#67e6ca",
+      "fontStyle": "italic"
+    },
     "razorComponentElement": {
       "foreground": "#ec8464",
       "fontStyle": "bold"
@@ -1465,7 +1481,7 @@
       "fontStyle": "bold"
     },
     "razorTagHelperElement": {
-      "foreground": "#e97185",
+      "foreground": "#ec8464",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
