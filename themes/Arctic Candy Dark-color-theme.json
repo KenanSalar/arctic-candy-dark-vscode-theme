@@ -402,7 +402,6 @@
       "scope": [
         "comment",
         "punctuation.definition.comment",
-        "punctuation.definition.tag",
         "comment.block.documentation punctuation.definition.bracket",
         "source.ocaml comment constant.regexp meta.separator",
         "markup.other.anchor support.constant",
@@ -799,7 +798,7 @@
         "source.tf entity.name"
       ],
       "settings": {
-        "foreground": "#47df8b"
+        "foreground": "#4dc784"
       }
     },
     {
@@ -819,7 +818,7 @@
         "text.tex markup.raw"
       ],
       "settings": {
-        "foreground": "#16b673"
+        "foreground": "#4dc784"
       }
     },
     {
@@ -1357,13 +1356,17 @@
       "foreground": "#0ccfcf",
       "fontStyle": ""
     },
-    "*.async": {
-      "foreground": "#0ccfcf",
+    "extensionMethod": {
+      "foreground": "#1ae6e6",
       "fontStyle": "italic"
     },
     "delegate": {
       "foreground": "#0ccfcf",
       "fontStyle": "bold"
+    },
+    "*.async": {
+      "foreground": "#0ccfcf",
+      "fontStyle": "italic"
     },
     "parameter": {
       "foreground": "#e4b781",
@@ -1410,11 +1413,11 @@
       "fontStyle": ""
     },
     "string": {
-      "foreground": "#47df8b",
+      "foreground": "#4dc784",
       "fontStyle": ""
     },
     "stringVerbatim": {
-      "foreground": "#41ca7f",
+      "foreground": "#4dc784",
       "fontStyle": "italic"
     },
     "stringEscapeCharacter": {
@@ -1428,6 +1431,38 @@
     "comment": {
       "foreground": "#5B858B",
       "fontStyle": "italic"
+    },
+    "markupComment": {
+      "foreground": "#5B858B",
+      "fontStyle": "italic"
+    },
+    "markupOperator": {
+      "foreground": "#D4D4D4",
+      "fontStyle": ""
+    },
+    "markupElement": {
+      "foreground": "#EC647B",
+      "fontStyle": "bold"
+    },
+    "markupAttribute": {
+      "foreground": "#62C4F1",
+      "fontStyle": "bold"
+    },
+    "markupAttributeValue": {
+      "foreground": "#e9a949",
+      "fontStyle": "bold"
+    },
+    "razorComment": {
+      "foreground": "#5B858B",
+      "fontStyle": "italic"
+    },
+    "razorComponentElement": {
+      "foreground": "#EC647B",
+      "fontStyle": "bold"
+    },
+    "razorComponentAttribute": {
+      "foreground": "#e9a949",
+      "fontStyle": "bold"
     },
     "xmlDocCommentName": "#4c95d1",
     "xmlDocCommentText": "#968884",
