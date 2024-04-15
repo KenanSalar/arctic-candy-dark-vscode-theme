@@ -1442,15 +1442,15 @@
     },
     "markupElement": {
       "foreground": "#EC647B",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "markupAttribute": {
       "foreground": "#62C4F1",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "markupAttributeValue": {
       "foreground": "#e9a949",
-      "fontStyle": "bold"
+      "fontStyle": ""
     },
     "razorComment": {
       "foreground": "#5B858B",
@@ -1462,7 +1462,15 @@
     },
     "razorComponentAttribute": {
       "foreground": "#e9a949",
-      "fontStyle": "bold"
+      "fontStyle": ""
+    },
+    "razorTagHelperElement": {
+      "foreground": "#e97185",
+      "fontStyle": ""
+    },
+    "razorTagHelperAttribute": {
+      "foreground": "#e6b265",
+      "fontStyle": ""
     },
     "xmlDocCommentName": "#4c95d1",
     "xmlDocCommentText": "#968884",
