@@ -1449,7 +1449,7 @@
       "fontStyle": ""
     },
     "markupAttributeValue": {
-      "foreground": "#e9a949",
+      "foreground": "#f0b357",
       "fontStyle": ""
     },
     "razorComment": {
@@ -1457,15 +1457,15 @@
       "fontStyle": "italic"
     },
     "razorComponentElement": {
-      "foreground": "#EC647B",
+      "foreground": "#ec8464",
       "fontStyle": "bold"
     },
     "razorComponentAttribute": {
-      "foreground": "#e9a949",
-      "fontStyle": ""
+      "foreground": "#94c8f3",
+      "fontStyle": "bold"
     },
     "razorTagHelperElement": {
-      "foreground": "#e97185",
+      "foreground": "#ec8464",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
