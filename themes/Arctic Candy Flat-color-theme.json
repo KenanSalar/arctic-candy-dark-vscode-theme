@@ -1002,6 +1002,17 @@
       }
     },
     {
+      "name": "razorCommentTransition",
+      "scope": [
+        "keyword.control.razor.comment.star",
+        "keyword.control.cshtml.transition"
+      ],
+      "settings": {
+        "foreground": "#c1b5e2",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "italic",
       "scope": [
         "comment",
@@ -1436,6 +1447,10 @@
       "foreground": "#5B858B",
       "fontStyle": "italic"
     },
+    "markupAttributeQuote": {
+      "foreground": "#5eb384",
+      "fontStyle": ""
+    },
     "markupOperator": {
       "foreground": "#D4D4D4",
       "fontStyle": ""
@@ -1469,15 +1484,15 @@
       "fontStyle": ""
     },
     "razorDirectiveAttribute": {
-      "foreground": "#67e6ca",
+      "foreground": "#c1b5e2",
       "fontStyle": "italic"
     },
     "razorComponentElement": {
-      "foreground": "#ec8464",
+      "foreground": "#55c5a0",
       "fontStyle": "bold"
     },
     "razorComponentAttribute": {
-      "foreground": "#94c8f3",
+      "foreground": "#c590dd",
       "fontStyle": "bold"
     },
     "razorTagHelperElement": {

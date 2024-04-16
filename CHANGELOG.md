@@ -2,8 +2,10 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Version 1.6.4
 
-## [Unreleased]
+### Changed
 
-- Initial release
+- Razor Component Element and Attribute color
+- Changed the Razor Directive Attribute color
+- Adjusted Markup Attribute Quote color
