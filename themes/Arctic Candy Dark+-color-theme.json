@@ -1175,7 +1175,7 @@
       "fontStyle": "italic"
     },
     "markupAttributeQuote": {
-      "foreground": "#5eb384",
+      "foreground": "#d1a98e",
       "fontStyle": ""
     },
     "markupOperator": {
@@ -1195,7 +1195,7 @@
       "fontStyle": ""
     },
     "markupAttributeValue": {
-      "foreground": "#f0b357",
+      "foreground": "#f5c7a8",
       "fontStyle": ""
     },
     "razorComment": {
