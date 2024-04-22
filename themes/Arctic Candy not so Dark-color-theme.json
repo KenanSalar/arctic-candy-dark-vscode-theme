@@ -484,6 +484,8 @@
         "tag.decorator.js punctuation.definition.tag.js",
         "storage.type.function.pug",
         "storage.type.function.js",
+        "storage.type.function.python",
+        "storage.type.function",
         "text.pug storage.type",
         "text.pug meta.tag.other",
         "source.clojure storage.control",
@@ -523,10 +525,16 @@
         "keyword.other.unit",
         "keyword.operator.new",
         "variable.language.this",
-        "storage.type.js"
+        "storage.type.js",
+        "storage.type",
+        "variable.parameter.function.language.special",
+        "variable.language.special.self.python",
+        "storage.modifier.java",
+        "storage.type.primitive.java"
       ],
       "settings": {
-        "foreground": "#df769b"
+        "foreground": "#df769b",
+        "fontStyle": ""
       }
     },
     {
@@ -534,10 +542,19 @@
       "scope": [
         "keyword.operator.logical",
         "keyword.operator.logical.python",
-        "keyword.operator.logical.php"
+        "keyword.operator.comparison.python",
+        "keyword.operator.comparison",
+        "keyword.operator.increment",
+        "keyword.operator.decrement",
+        "keyword.operator.logical.php",
+        "storage.type.function.arrow",
+        "keyword.operator.assignment",
+        "punctuation.accessor",
+        "keyword.operator.arithmetic"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#D4D4D4",
+        "fontStyle": ""
       }
     },
     {
@@ -547,7 +564,8 @@
         "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#B2CACD"
+        "foreground": "#B2CACD",
+        "fontStyle": ""
       }
     },
     {
@@ -614,7 +632,8 @@
         "entity.other.keyframe-offset.percentage.css"
       ],
       "settings": {
-        "foreground": "#e4b781"
+        "foreground": "#e4b781",
+        "fontStyle": ""
       }
     },
     {
@@ -630,7 +649,6 @@
         "meta.type.parameters entity.name.type",
         "meta.type.annotation entity.name.type",
         "punctuation.definition.typeparameters",
-        "source.python support.type.python",
         "comment.block.documentation.phpdoc.php keyword.other.type.php",
         "storage.type.php",
         "keyword.type",
@@ -726,7 +744,6 @@
       "name": "tag",
       "scope": [
         "variable.language",
-        "variable.parameter.function.language.special",
         "punctuation.definition.italic",
         "punctuation.definition.bold",
         "entity.name.tag",
@@ -747,7 +764,6 @@
         "storage.type.def",
         "meta.class.identifier storage.modifier",
         "source.scala keyword.declaration",
-        "storage.type",
         "comment.block.documentation punctuation.definition.block.tag",
         "comment.block.documentation punctuation.definition.inline.tag",
         "entity.tag.apacheconf",
@@ -781,7 +797,7 @@
         "source.zig keyword.structure"
       ],
       "settings": {
-        "foreground": "#ec647b"
+        "foreground": "#e25e74"
       }
     },
     {
@@ -802,6 +818,13 @@
       }
     },
     {
+      "name": "string escape",
+      "scope": ["constant.character.escape"],
+      "settings": {
+        "foreground": "#C672EC"
+      }
+    },
+    {
       "name": "string interpolated",
       "scope": [
         "string.template",
@@ -815,7 +838,9 @@
         "markup.inline.raw punctuation.definition.raw",
         "string.quoted.double.interpolated.crystal",
         "string.quoted.double.interpolated.crystal punctuation.definition.string",
-        "text.tex markup.raw"
+        "text.tex markup.raw",
+        "storage.type.string.python",
+        "storage.type.string"
       ],
       "settings": {
         "foreground": "#4dc784"
@@ -865,7 +890,6 @@
         "keyword.control.cucumber.table",
         "punctuation.decorator",
         "source.tf support.class",
-        "storage.type.function.python",
         "support.function.",
         "support.function.construct."
       ],
@@ -907,7 +931,7 @@
         "entity.name.scope-resolution.function.call"
       ],
       "settings": {
-        "foreground": "#49d6e9"
+        "foreground": "#0ccfcf"
       }
     },
     {
@@ -917,13 +941,11 @@
         "source.js punctuation.section.embedded",
         "punctuation.definition.template-expression",
         "support.class",
-        "storage.type.string.python",
         "string.interpolated.pug",
         "support.constant.handlebars",
         "source.clojure punctuation.section.set",
         "source.clojure punctuation.section.metadata",
         "entity.global.clojure",
-        "source.python meta.function-call.python support.type.python",
         "entity.other.inherited-class.python",
         "punctuation.definition.interpolation",
         "punctuation.section.embedded.begin.ruby",
@@ -932,7 +954,6 @@
         "entity.namespace.r",
         "meta.method-call.groovy storage.type.groovy",
         "source.scala entity.name.class.declaration",
-        "constant.character.escape",
         "support.function.macro.julia",
         "string.replacement.apacheconf",
         "storage.modifier.using.vala",
@@ -955,7 +976,6 @@
         "source.vala storage.type",
         "support.variable.class.group",
         "support.variable",
-        // "support.variable.js",
         "variable.other.object.js",
         "entity.name.type.class",
         "source.tf meta.keyword.list",
@@ -968,20 +988,71 @@
       }
     },
     {
+      "name": "attributes",
+      "scope": ["invalid.deprecated.entity.other.attribute-name.html"],
+      "settings": {
+        "foreground": "#a1c8ec",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "properties",
+      "scope": [
+        "variable.other.object.property",
+        "support.constant.property-value.css"
+      ],
+      "settings": {
+        "foreground": "#aea1ec",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "html, css attribute",
       "scope": [
         "entity.other.attribute-name.html",
         "entity.other.attribute-name.class.css"
       ],
       "settings": {
-        "foreground": "#62c4f1"
+        "foreground": "#62c4f1",
+        "fontStyle": ""
+      }
+    },
+
+    {
+      "name": "html string",
+      "scope": ["string.quoted.double.html"],
+      "settings": {
+        "foreground": "#f5c7a8",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "html quotes",
+      "scope": [
+        "punctuation.definition.string.begin.html",
+        "punctuation.definition.string.end.html"
+      ],
+      "settings": {
+        "foreground": "#d1a98e",
+        "fontStyle": ""
       }
     },
     {
       "name": "css property",
       "scope": ["support.type.property-name.css"],
       "settings": {
-        "foreground": "#eeaf96"
+        "foreground": "#eeaf96",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "css keyframe list",
+      "scope": [
+        "meta.property-list.css",
+        "variable.parameter.keyframe-list.css"
+      ],
+      "settings": {
+        "foreground": "#4dc784"
       }
     },
     {
@@ -999,6 +1070,17 @@
       ],
       "settings": {
         "foreground": "#dd628d"
+      }
+    },
+    {
+      "name": "razorCommentTransition",
+      "scope": [
+        "keyword.control.razor.comment.star",
+        "keyword.control.cshtml.transition"
+      ],
+      "settings": {
+        "foreground": "#c1b5e2",
+        "fontStyle": ""
       }
     },
     {
@@ -1079,7 +1161,6 @@
         "keyword.type.cs",
         "storage.type.built-in",
         "storage.type.primitive",
-        "source.python support.type.python",
         "storage.type.core.rust",
         "source.swift support.type",
         "source.go storage.type",
@@ -1119,7 +1200,8 @@
         "keyword.operator.new",
         "storage.type.js",
         "support.constant.property-value.css",
-        "constant.other.color.rgb-value"
+        "constant.other.color.rgb-value",
+        "constant.other.caps.python"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -1133,7 +1215,6 @@
         "keyword.operator",
         "keyword.other.template",
         "keyword.other.substitution",
-        "storage.type.function.arrow",
         "constant.other.color",
         "punctuation.accessor",
         "entity.name.section",
@@ -1212,7 +1293,6 @@
     {
       "name": "normal",
       "scope": [
-        // "keyword.cs",
         "keyword.begin.tag.ejs",
         "source.python meta.function.decorator.python support.type.python",
         "source.cs keyword.other",
@@ -1289,7 +1369,8 @@
         "source.zig keyword.constant.bool",
         "source.zig keyword.default",
         "source.zig keyword.statement",
-        "source.zig keyword.constant.default"
+        "source.zig keyword.constant.default",
+        ""
       ],
       "settings": {
         "fontStyle": ""
@@ -1414,7 +1495,10 @@
     "punctuation": {
       "foreground": "#B2CACD"
     },
-    "macro": "#88aaff",
+    "macro": {
+      "foreground": "#88aaff",
+      "fontStyle": ""
+    },
     "constant": {
       "foreground": "#faa945",
       "fontStyle": "italic"
@@ -1432,7 +1516,7 @@
       "fontStyle": "italic"
     },
     "stringEscapeCharacter": {
-      "foreground": "#7AC4EF",
+      "foreground": "#C672EC",
       "fontStyle": ""
     },
     "annotation": {
@@ -1460,7 +1544,7 @@
       "fontStyle": ""
     },
     "markupElement": {
-      "foreground": "#EC647B",
+      "foreground": "#ee657c",
       "fontStyle": ""
     },
     "markupAttribute": {
