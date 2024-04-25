@@ -3,6 +3,13 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
+### Version 1.6.8
+
+### Changed
+
+- Adjusted inlay hint colors
+
+
 ### Version 1.6.7
 
 ### Changed
