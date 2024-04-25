@@ -3,7 +3,7 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
-### Version 1.6.6
+### Version 1.6.7
 
 ### Changed
 
