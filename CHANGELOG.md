@@ -7,6 +7,13 @@ All notable changes to the "arctic-candy-dark-theme" extension will be documente
 
 ### Changed
 
+- Updated non semantic keyword colors to match the semantic keyword colors
+
+
+### Version 1.6.6
+
+### Changed
+
 - Changed non semantic markup attribute quote color
 - Changed non semantic markup string color
 - Changed string escape character color
@@ -15,6 +22,7 @@ All notable changes to the "arctic-candy-dark-theme" extension will be documente
 - Fixed some operator colors which had the wrong color
 - Fixed some minor issues and colors
 
+
 ### Version 1.6.5
 
 ### Changed
@@ -22,6 +30,7 @@ All notable changes to the "arctic-candy-dark-theme" extension will be documente
 - Changed the Markup Attribute Quote color
 - Adjusted the Markup Attribute Value color
 - Adjusted Markup Attribute Quote color
+
 
 ### Version 1.6.4
 
