@@ -292,7 +292,10 @@
         "storage.type.function.arrow",
         "keyword.operator.assignment",
         "punctuation.accessor",
-        "keyword.operator.arithmetic"
+        "keyword.operator.arithmetic",
+        "punctuation.separator.question-mark",
+        "keyword.operator.arrow",
+        "punctuation.accessor"
       ],
       "settings": {
         "foreground": "#D4D4D4",
@@ -609,6 +612,7 @@
         "support.type.property-name",
         "support.type.vendored.property-name",
         "entity.name.function",
+        "entity.name.function.cs",
         "string.other.link",
         "markup.link",
         "support.type.vendored",
@@ -712,6 +716,7 @@
         "support.variable.class.group",
         "support.variable",
         "variable.other.object.js",
+        "variable.other.object.cs",
         "entity.name.type.class",
         "source.tf meta.keyword.list",
         "source.tf meta.keyword.map",
@@ -736,10 +741,28 @@
       "name": "properties",
       "scope": [
         "variable.other.object.property",
-        "support.constant.property-value.css"
+        "support.constant.property-value.css",
+        "entity.name.variable.property"
       ],
       "settings": {
         "foreground": "#aea1ec",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "razor directive",
+      "scope": [
+        "keyword.control.razor.directive",
+        "keyword.control.razor.directive.code",
+        "keyword.control.razor.comment.star",
+        "keyword.control.cshtml.transition",
+        "keyword.control.cshtml",
+        "keyword.control.razor.directive.codeblock",
+        "keyword.control.razor.directive.codeblock.open",
+        "keyword.control.razor.directive.codeblock.close"
+      ],
+      "settings": {
+        "foreground": "#C1B5E2",
         "fontStyle": "italic"
       }
     },
@@ -807,28 +830,6 @@
       ],
       "settings": {
         "foreground": "#dd628d"
-      }
-    },
-    {
-      "name": "razorCommentTransition",
-      "scope": [
-        "keyword.control.razor.comment.star",
-        "keyword.control.cshtml.transition"
-      ],
-      "settings": {
-        "foreground": "#c1b5e2",
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "razorCommentTransition",
-      "scope": [
-        "keyword.control.razor.comment.star",
-        "keyword.control.cshtml.transition"
-      ],
-      "settings": {
-        "foreground": "#c1b5e2",
-        "fontStyle": ""
       }
     },
     {

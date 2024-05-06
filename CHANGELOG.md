@@ -3,6 +3,14 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
+### Version 1.7.1
+
+### Changed
+
+- Added some missing operator colors
+- Added default property color for C#
+
+
 ### Version 1.7.0
 
 ### Changed
