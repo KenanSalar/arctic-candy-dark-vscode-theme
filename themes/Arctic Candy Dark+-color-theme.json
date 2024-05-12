@@ -371,14 +371,24 @@
         "source.scala entity.name.import",
         "markup.code",
         "markup.fenced_code.block",
-        "variable.parameter",
-        "variable.import.parameter",
         "entity.other.attribute-name.class.css",
         "entity.other.keyframe-offset.percentage.css"
       ],
       "settings": {
         "foreground": "#e4b781",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "parameter",
+      "scope": [
+        "entity.name.variable.parameter",
+        "variable.parameter",
+        "variable.import.parameter",
+      ],
+      "settings": {
+        "foreground": "#e4df81",
+        "fontStyle": "italic"
       }
     },
     {
@@ -970,7 +980,6 @@
         "variable.parameter",
         "support.function.builtin.rust",
         "storage.type.function.coffee",
-        "entity.name.variable.parameter",
         "punctuation.separator.hash.cs",
         "constant.other.symbol.ruby punctuation.definition.constant.ruby",
         "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
@@ -1275,8 +1284,8 @@
       "fontStyle": "italic"
     },
     "parameter": {
-      "foreground": "#e4b781",
-      "fontStyle": "bold"
+      "foreground": "#e4df81",
+      "fontStyle": "italic"
     },
     "typeParameter": {
       "foreground": "#d65b6b",

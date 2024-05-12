@@ -3,6 +3,13 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
+### Version 1.7.2
+
+### Changed
+
+- Changed parameter style to italic and changed the color to a yellow tone
+
+
 ### Version 1.7.1
 
 ### Changed
