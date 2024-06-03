@@ -570,7 +570,14 @@
         "keyword.operator.arithmetic",
         "punctuation.separator.question-mark",
         "keyword.operator.arrow",
-        "punctuation.accessor"
+        "punctuation.accessor",
+        "keyword.operator.null-conditional",
+        "keyword.operator.null-conditional.cs",
+        "keyword.operator.null-conditional.python",
+        "keyword.operator.ternary",
+        "keyword.operator.ternary.cs",
+        "keyword.operator.ternary.python",
+        "keyword.operator.ternary.php",
       ],
       "settings": {
         "foreground": "#D4D4D4",
