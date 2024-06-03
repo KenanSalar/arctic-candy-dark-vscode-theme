@@ -3,6 +3,13 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
+### Version 1.7.4
+
+### Changed
+
+- Changed standard struct keyword and struct color
+
+
 ### Version 1.7.3
 
 ### Changed

@@ -547,7 +547,8 @@
         "variable.language.this",
         "constant.language.null",
         "keyword.other.static",
-        "keyword.other.using"
+        "keyword.other.using",
+        "storage.type.struct"
       ],
       "settings": {
         "foreground": "#df769b",
@@ -577,7 +578,7 @@
         "keyword.operator.ternary",
         "keyword.operator.ternary.cs",
         "keyword.operator.ternary.python",
-        "keyword.operator.ternary.php",
+        "keyword.operator.ternary.php"
       ],
       "settings": {
         "foreground": "#D4D4D4",
@@ -666,7 +667,7 @@
       "scope": [
         "entity.name.variable.parameter",
         "variable.parameter",
-        "variable.import.parameter",
+        "variable.import.parameter"
       ],
       "settings": {
         "foreground": "#e4df81",
@@ -1443,7 +1444,7 @@
     },
     {
       "name": "struct",
-      "scope": "storage.type.struct",
+      "scope": "entity.name.type.struct",
       "settings": {
         "foreground": "#d343c0",
         "fontStyle": "bold"
