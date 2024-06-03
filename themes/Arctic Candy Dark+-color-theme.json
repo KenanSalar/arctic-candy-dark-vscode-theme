@@ -299,6 +299,8 @@
         "punctuation.accessor",
         "keyword.operator.null-conditional",
         "keyword.operator.null-conditional.cs",
+        "punctuation.accessor",
+        "punctuation.accessor.cs",
         "keyword.operator.null-conditional.python",
         "keyword.operator.ternary",
         "keyword.operator.ternary.cs",
@@ -1168,8 +1170,16 @@
       }
     },
     {
+      "name": "class",
+      "scope": ["variable.other.class", "entity.name.type.class"],
+      "settings": {
+        "foreground": "#49ace9",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "struct",
-      "scope": "entity.name.type.struct",
+      "scope": ["variable.other.struct", "entity.name.type.struct"],
       "settings": {
         "foreground": "#d343c0",
         "fontStyle": "bold"
@@ -1177,7 +1187,7 @@
     },
     {
       "name": "enum",
-      "scope": ["entity.name.type.enum"],
+      "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
         "foreground": "#64d67d",
         "fontStyle": "bold"
@@ -1185,7 +1195,7 @@
     },
     {
       "name": "enum member",
-      "scope": ["variable.other.enummember"],
+      "scope": ["variable.other.enummember", "entity.name.type.enummember"],
       "settings": {
         "foreground": "#95E9A7",
         "fontStyle": ""
@@ -1193,10 +1203,24 @@
     },
     {
       "name": "interface",
-      "scope": ["entity.name.type.interface"],
+      "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
         "foreground": "#d87b57",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "function/method",
+      "scope": [
+        "entity.name.function",
+        "entity.name.function.method",
+        "entity.name.method",
+        "entity.name.function.constructor",
+        "entity.name.type.function"
+      ],
+      "settings": {
+        "foreground": "#0ccfcf",
+        "fontStyle": ""
       }
     },
     {
@@ -1211,7 +1235,16 @@
       "name": "string escape",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#C672EC"
+        "foreground": "#c672ec",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "number",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#c672ec",
+        "fontStyle": ""
       }
     }
   ],

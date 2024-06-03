@@ -3,6 +3,13 @@
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
 
+### Version 1.7.5
+
+### Changed
+
+- Changed standard class color and standard struct color aswell as punctuation.accessor color
+
+
 ### Version 1.7.4
 
 ### Changed
