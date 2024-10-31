@@ -2,11 +2,15 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.7.7
+
+### Updated screenshots
+
+---
+
 ## Changes for Version 1.7.6
 
 - **Adjusted html, css, razor, json and mardown syntax colors to fit the theme**
-
-### Screenshots updated
 
 ---
 
