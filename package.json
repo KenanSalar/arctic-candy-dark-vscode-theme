@@ -3,14 +3,19 @@
   "displayName": "Arctic Candy Dark",
   "description": "A dark and pleasing theme with meaning behind the syntax highlighting.",
   "icon": "resources/marketplace_logo.png",
-  "version": "1.7.4",
+  "version": "1.7.5",
+  "publisher": "kenan-salar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenanSalar/arctic-candy-dark-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
   ],
-  "publisher": "kenan-salar",
   "keywords": [
     "arctic",
     "candy",

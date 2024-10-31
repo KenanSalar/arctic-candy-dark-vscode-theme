@@ -2,68 +2,47 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.7.5
 
-### Version 1.7.5
+- **Adjusted html, css, razor, json and mardown syntax colors to fit the theme**
 
-### Changed
+### Screenshots updated
 
-- Changed standard class color and standard struct color aswell as punctuation.accessor color
+---
 
-
-### Version 1.7.4
-
-### Changed
+## Changes for Version 1.7.4
 
 - Changed standard struct keyword and struct color
 
+---
 
-### Version 1.7.3
-
-### Changed
+## Changes for Version 1.7.3
 
 - Changed null-conditional and ternary operator color
 
-
-### Version 1.7.2
-
-### Changed
+## Changes for Version 1.7.2
 
 - Changed parameter style to italic and changed the color to a yellow tone
 
-
-### Version 1.7.1
-
-### Changed
+## Changes for Version 1.7.1
 
 - Added some missing operator colors
 - Added default property color for C#
 
-
-### Version 1.7.0
-
-### Changed
+## Changes for ersion 1.7.0
 
 - Adjusted inlay hint type color
 - Changed the standard color for entity type
 
-
-### Version 1.6.8
-
-### Changed
+## Changes for Version 1.6.8
 
 - Adjusted inlay hint colors
 
-
-### Version 1.6.7
-
-### Changed
+## Changes for Version 1.6.7
 
 - Updated non semantic keyword colors to match the semantic keyword colors
 
-
-### Version 1.6.6
-
-### Changed
+## Changes for Version 1.6.6
 
 - Changed non semantic markup attribute quote color
 - Changed non semantic markup string color
@@ -73,19 +52,13 @@ All notable changes to the "arctic-candy-dark-theme" extension will be documente
 - Fixed some operator colors which had the wrong color
 - Fixed some minor issues and colors
 
-
-### Version 1.6.5
-
-### Changed
+## Changes for Version 1.6.5
 
 - Changed the Markup Attribute Quote color
 - Adjusted the Markup Attribute Value color
 - Adjusted Markup Attribute Quote color
 
-
-### Version 1.6.4
-
-### Changed
+## Changes for Version 1.6.4
 
 - Razor Component Element and Attribute color
 - Changed the Razor Directive Attribute color
