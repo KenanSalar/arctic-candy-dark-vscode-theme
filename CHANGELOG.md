@@ -2,6 +2,11 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+### Version 1.7.6
+
+### Changed
+
+- Type parameter color is now the same as the class color
 
 ### Version 1.7.5
 

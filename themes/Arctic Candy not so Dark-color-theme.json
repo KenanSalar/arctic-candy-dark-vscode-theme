@@ -1124,7 +1124,7 @@
         "entity.name.type.type-parameter.cs"
       ],
       "settings": {
-        "foreground": "#dd628d"
+        "foreground": "#49ace9"
       }
     },
     {
@@ -1523,9 +1523,7 @@
       }
     }
   ],
-
   "semanticHighlighting": true,
-
   "semanticTokenColors": {
     "keyword": {
       "foreground": "#DF769B",
@@ -1534,6 +1532,18 @@
     "controlKeyword": {
       "foreground": "#DF769B",
       "fontStyle": "bold"
+    },
+    "macro": {
+      "foreground": "#DF769B",
+      "fontStyle": ""
+    },
+    "selfParameter": {
+      "foreground": "#DF769B",
+      "fontStyle": ""
+    },
+    "newOperator": {
+      "foreground": "#DF769B",
+      "fontStyle": ""
     },
     "namespace": {
       "foreground": "#adc5c2",
@@ -1604,7 +1614,7 @@
       "fontStyle": "italic"
     },
     "typeParameter": {
-      "foreground": "#d65b6b",
+      "foreground": "#49ace9",
       "fontStyle": "bold"
     },
     "enum": {
@@ -1633,10 +1643,6 @@
     },
     "punctuation": {
       "foreground": "#B2CACD"
-    },
-    "macro": {
-      "foreground": "#88aaff",
-      "fontStyle": ""
     },
     "constant": {
       "foreground": "#faa945",
