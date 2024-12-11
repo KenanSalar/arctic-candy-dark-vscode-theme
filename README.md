@@ -19,26 +19,30 @@ Don't forget to enable semantic highlighting.
 
 ## Screenshots
 
-#### Default Theme:
+### Default Theme
 
-![App Screenshot](https://i.postimg.cc/HsfX1zV0/Screenshot-2024-03-17-133301.png)
+![App Screenshot](https://i.postimg.cc/KZWB0sSc/Arctic-Candy-Dark-Default-Preview1.png)
 
-#### Darker Theme:
+![App Screenshot](https://i.postimg.cc/1mN62csG/Arctic-Candy-Dark-Default-Preview2.png)
 
-![App Screenshot](https://i.postimg.cc/DZPp52SW/darker.png)
+![App Screenshot](https://i.postimg.cc/rqmD7C9D/Arctic-Candy-Dark-Default-Preview3.png)
 
-#### not so Dark Theme:
+### Darker Theme
 
-![App Screenshot](https://i.postimg.cc/zvdtZ0S8/not-so-dark.png)
+![App Screenshot](https://i.postimg.cc/hnHVxw1p/Arctic-Candy-Dark-Darker-Preview.png)
 
-#### Dark+ Theme:
+### not so Dark Theme
 
-![App Screenshot](https://i.postimg.cc/qqBb59K1/Dark.png)
+![App Screenshot](https://i.postimg.cc/RC4FdcFV/Arctic-Candy-Dark-Not-So-Dark-Preview.png)
 
-#### Flat Theme:
+### Dark+ Theme
 
-![App Screenshot](https://i.postimg.cc/7PXQ2Zvd/flat.png)
+![App Screenshot](https://i.postimg.cc/NGqTc9jW/Arctic-Candy-Dark-Dark-Plus-Preview.png)
 
-#### Flat Dark Theme:
+### Flat Theme
 
-![App Screenshot](https://i.postimg.cc/Yq9DfBM9/flat-dark.png)
+![App Screenshot](https://i.postimg.cc/PXGNpGnD/Arctic-Candy-Dark-Flat-Preview.png)
+
+### Flat Dark Theme
+
+![App Screenshot](https://i.postimg.cc/byQr16qB/Arctic-Candy-Dark-Flat-Darker-Preview.png)
