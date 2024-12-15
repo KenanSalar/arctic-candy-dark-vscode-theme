@@ -2,6 +2,14 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.8.0
+
+- **Classes, structs, interfaces and records are not bold anymore**
+- **Constants are now bold instead of italic**
+- **Type parameters are now italic**
+
+---
+
 ## Changes for Version 1.7.8
 
 ### Type parameter has now the same color as the class color
@@ -20,7 +28,7 @@ All notable changes to the "arctic-candy-dark-theme" extension will be documente
 
 ---
 
-## Changes for Version 1.7.4
+## Changes for Version 1.7.5
 
 - Minor changes
 
