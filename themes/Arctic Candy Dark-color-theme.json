@@ -1791,11 +1791,11 @@
       "fontStyle": ""
     },
     "razorTagHelperElement": {
-      "foreground": "#0ccfcf",
+      "foreground": "#DF769B",
       "fontStyle": ""
     },
     "razorTagHelperAttribute": {
-      "foreground": "#e4df81",
+      "foreground": "#a1c8ec",
       "fontStyle": ""
     },
     "markdownHeading": {

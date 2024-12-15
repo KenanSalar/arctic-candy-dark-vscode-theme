@@ -2,6 +2,13 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.8.1
+
+- **Razor component element and Razor tag helper element now have the same color**
+- **Razor component attribute and Razor tag helper attribute now have the same color**
+
+---
+
 ## Changes for Version 1.8.0
 
 - **Classes, structs, interfaces and records are not bold anymore**
