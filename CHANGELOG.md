@@ -2,6 +2,12 @@
 
 All notable changes to the "arctic-candy-dark-theme" extension will be documented in this file.
 
+## Changes for Version 1.8.2
+
+- **Changed minimap background opacity of all themes except Dark+ to semi transparent**
+
+---
+
 ## Changes for Version 1.8.1
 
 - **Razor component element and Razor tag helper element now have the same color**
